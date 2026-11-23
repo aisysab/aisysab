@@ -31,7 +31,7 @@
 ┌──(aisysab㉿github)-[~]
 └─$ whoami
 
-Name       : AisySab
+Name       : Nur Aisyah Sabrina binti Muhamad Sabri
 Role       : Computer Science Student
 University : Universiti Teknologi Malaysia
 Course     : Computer Network and Security
