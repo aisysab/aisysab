@@ -1,70 +1,118 @@
-<div align="center">
+# 👋 Hi, I'm AisySab!
 
-# 👋 Hi there, I'm Aisyab! 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E879B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Exploring+Networks+%26+Security;Learning+Something+New+Every+Day!" alt="Typing SVG" />
+</p>
 
-### 🎓 First-Year Computer Science Student @ Universiti Teknologi Malaysia (UTM)
-**Specializing in Computer Network & Security**
-
-[![GitHub followers](https://img.shields.io/github/followers/aisysab?label=Followers&style=social)](https://github.com/aisysab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
-
-</div>
-
----
-
-## 🚀 About Me
-
-> "Securing digital systems and infrastructure, one line of code at a time."
-
-I am a passionate first-year **Bachelor of Computer Science (Computer Network and Security)** student at **UTM**. I am actively building a strong foundation in programming, networking, and cybersecurity, with a clear goal: to build a career in securing digital infrastructures. 
-
-I love breaking down complex problems and building structured, efficient algorithms. 
+<p align="center">
+  <img src="https://img.shields.io/badge/University-UTM-7E57C2?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-Computer+Science-E879B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-3949AB?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🌷 About Me
 
-<div align="center">
+Hi! I'm a first-year **Bachelor of Computer Science (Computer Network and Security)** student at **Universiti Teknologi Malaysia (UTM)**.
 
-**Languages & Core Concepts**
-<br>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF9900?style=for-the-badge&logo=target&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithm_Design-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white)
+I'm passionate about technology, cybersecurity, and understanding how digital systems work behind the scenes. Currently, I'm building my foundation in programming, computer networks, and system security while exploring different areas of computer science.
 
-**Cybersecurity & Networking**
-<br>
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+I believe that every small project and every line of code is another step towards becoming a better developer.
 
-**Tools & Workflow**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- 🎓 Currently studying at Universiti Teknologi Malaysia (UTM)
+- 💻 Learning C++ and strengthening my programming fundamentals
+- 🔐 Interested in Cybersecurity and Network Security
+- 🌐 Exploring computer networking and digital infrastructure
+- 🎯 Working towards becoming a Cybersecurity Professional
 
 ---
 
-## 🎯 Current Mission (What I'm Learning)
+## 💻 Technical Skills
 
-- [x] Mastering C++ fundamentals (Repetition, Decision Statements, structured logic).
-- [ ] Strengthening my problem-solving skills through algorithmic design.
-- [ ] Building hands-on networking & cybersecurity lab projects.
-- [ ] Expanding my knowledge of digital defense strategies.
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+**Areas of Interest**
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-181717?style=flat-square&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Computer_Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FFB74D?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Security-3949AB?style=flat-square" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
+Here are some of the projects and exercises I'm working on as I develop my technical skills.
 
-![Aisyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisysab&show_icons=true&theme=radical&hide_border=true)
+| Project | Description | Technology |
+|:---|:---|:---|
+| C++ Learning Exercises | Programming fundamentals and problem-solving practice | C++ |
+| Network & Security Labs | Exploring networking and security concepts | Networking |
+| Personal Portfolio | Documenting my learning journey and development | GitHub |
 
-</div>
+*More projects coming soon! Stay tuned.*
 
 ---
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/aisysab">aisysab</a> | Let's secure the digital world together!</i>
-</div>
+## 📚 Currently Learning
+
+- C++ Programming & Object-Oriented Programming
+- Data Structures and Algorithms
+- Computer Networks
+- Fundamentals of Cybersecurity
+- Linux & Command Line Basics
+- Git and GitHub Workflow
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aisysab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisysab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aisysab&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 My Learning Journey
+
+I'm still at the beginning of my journey in computer science, and there's so much more I want to explore.
+
+My goal is to continuously improve my programming skills, gain practical experience in cybersecurity, and build projects that challenge my knowledge and creativity.
+
+**One step at a time. One line of code at a time.** 💗
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aisysab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great things are built one small step at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Have a great day!
+</p>
